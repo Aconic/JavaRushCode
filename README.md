@@ -1,3 +1,4 @@
-Javarush.ru - Solutions
 
-Решение задач сайта Javarush.ru.  
+Решение задач сайта Javarush.ru.   
+
+Javarush.ru - Task solutions
